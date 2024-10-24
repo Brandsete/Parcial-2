@@ -37,7 +37,7 @@ Este parcial consta de dos codigos que funcionan como calculadoras, cada una tie
 4. En este caso estamos usando el entorno de programación Visual estudio code para mayor comodidad pero puedes usar el entorno con el que mejor te sientas
 5. Clona el repositorio con el siguiente comando
    ```bash
-
+      https://github.com/Brandsete/Parcial-2.git
 
 # **Herramientas utilizadas**
 - **HTML**: Lenguaje de programación especializado en la estructuración ordenada de paginas web
